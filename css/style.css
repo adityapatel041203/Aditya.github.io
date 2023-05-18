@@ -768,6 +768,9 @@ header .header-2 .navbar li a:hover::before {
 }
 
 /* ==================================section-6======================================= */
+.section-6{
+    margin-bottom:50px;
+}
 .section-6 .form .form-control{
     font-size: 15px;
     font-family: var(--prime-text);

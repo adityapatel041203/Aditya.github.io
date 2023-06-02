@@ -49,6 +49,7 @@ header .navbar {
     margin: 0;
     padding: 0;
     display: block;
+    text-align: start;
 }
 header .header{
     padding: 20px 60px;
@@ -91,7 +92,7 @@ header .header .logo::after{
 }
 header .navbar li {
     display: inline-block;
-    margin-right: 75px;
+    margin-right: 50px;
 }
 header .navbar li:last-child{
     margin: 0;
